@@ -1,0 +1,15 @@
+{
+  "name": "tailwindcss",
+  "scripts": {
+    "tw": "tailwindcss -i ./src/css/input.css -o ./src/css/styles.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tiesco789/TailwindCSS.git"
+  },
+  "author": "Franccesco Antonio",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.0.22"
+  }
+}
