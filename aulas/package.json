@@ -1,7 +1,7 @@
 {
   "name": "tailwindcss",
   "scripts": {
-    "tw": "tailwindcss -i ./src/css/input.css -o ./src/css/styles.css --watch"
+    "tw": "tailwindcss -i ./src/css/input.css -o ./src/css/styles.css"
   },
   "repository": {
     "type": "git",
