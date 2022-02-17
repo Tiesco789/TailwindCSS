@@ -4,15 +4,11 @@ module.exports = {
   content: ["./src/**/*.{html,js}"],
   theme: {
     extend: {
-      colors: {
-        "new-blue": "#243c5a",
-        gray: {
-          ...colors.gray,
-          900: "#999",
-        },
+      fontFamily: {
+        arial: ["Arial", "sans-serif"],
       },
-      spacing: {
-        50: "20rem",
+      fontSize: {
+        "12xl": "8rem",
       },
     },
   },
